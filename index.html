@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gym Energy Leaderboard</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      min-height: 100vh;
+      padding: 20px;
+    }
+    .container { max-width: 1000px; margin: 0 auto; }
+    .header {
+      text-align: center;
+      color: white;
+      margin-bottom: 30px;
+    }
+    .header h1 { font-size: 2.5em; margin-bottom: 10px; }
+    .header p { font-size: 1.1em; opacity: 0.9; margin-top: 5px; }
+    .status {
+      background: rgba(39,174,96,0.8);
+      padding: 10px 20px;
+      border-radius: 20px;
+      display: inline-block;
+      margin-top: 10px;
+      font-weight: bold;
+    }
+    .competition-dates {
+      color: rgba(255,255,255,0.9);
+      margin-top: 10px;
+      font-size: 0.9em;
+    }
+    .podium {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 15px;
+      margin-bottom: 30px;
+    }
+    .podium-item {
+      background: white;
+      border-radius: 15px;
+      padding: 25px;
+      text-align: center;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+      transition: transform 0.3s;
+    }
+    .podium-item:hover { transform: translateY(-5px); }
+    .podium-item:first-child {
+      background: linear-gradient(135deg, #f6d365 0%, #fda085 100%);
+    }
+    .rank { font-size: 3em; margin-bottom: 10px; }
+    .username { font-size: 1.4em; font-weight: bold; margin-bottom: 5px; }
+    .energy { font-size: 1.8em; color: #667eea; font-weight: bold; margin-top: 5px; }
+    .podium-item:first-child .energy { color: #fff; }
+    .baseline { font-size: 0.85em; color: #666; margin-top: 5px; }
+    .podium-item:first-child .baseline { color: rgba(255,255,255,0.8); }
+    .table-container {
+      background: white;
+      border-radius: 15px;
+      padding: 20px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+      overflow-x: auto;
+    }
+    table { width: 100%; border-collapse: collapse; }
+    th, td { padding: 15px 12px; text-align: left; border-bottom: 1px solid #eee; }
+    th { background: #f8f9fa; font-weight: bold; color: #667eea; position: sticky; top: 0; }
+    tr:hover { background: #f8f9fa; }
+    .rank-col { width: 80px; text-align: center; font-weight: bold; font-size: 1.1em; }
+    .number-col { text-align: right; font-weight: bold; }
+    .progress-col { color: #27ae60; }
+    .baseline-col { color: #95a5a6; font-size: 0.9em; }
+    .updated { 
+      text-align: center; 
+      color: white; 
+      margin-top: 20px; 
+      font-size: 0.9em;
+      background: rgba(0,0,0,0.2);
+      padding: 10px;
+      border-radius: 10px;
+    }
+    .zero-progress { opacity: 0.5; }
+    @media (max-width: 768px) {
+      .header h1 { font-size: 1.8em; }
+      .podium { grid-template-columns: 1fr; }
+      th, td { padding: 10px 5px; font-size: 0.85em; }
+      .rank { font-size: 2em; }
+      .username { font-size: 1.1em; }
+      .energy { font-size: 1.3em; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>🏋️ Gym Energy Competition</h1>
+      <p>Tracking progress from competition start</p>
+      <div class="status">🔥 Competition Active</div>
+      <div class="competition-dates">2025-12-18 to 2026-01-18</div>
+    </div>
+    
+    <div class="podium">
+<div class="podium-item"><div class="username">No progress yet</div></div>
+    </div>
+    
+    <div class="table-container">
+      <table>
+        <thead>
+          <tr>
+            <th class="rank-col">Rank</th>
+            <th>Username</th>
+            <th class="number-col">Progress</th>
+            <th class="number-col">Baseline</th>
+            <th class="number-col">Current</th>
+          </tr>
+        </thead>
+        <tbody>
+<tr class="zero-progress"><td class="rank-col">1</td><td>ACETONICZ</td><td class="number-col progress-col">+0</td><td class="number-col baseline-col">77180</td><td class="number-col">77180</td></tr><tr class="zero-progress"><td class="rank-col">2</td><td>Rearty</td><td class="number-col progress-col">+0</td><td class="number-col baseline-col">62050</td><td class="number-col">62050</td></tr><tr class="zero-progress"><td class="rank-col">3</td><td>BiggyRections</td><td class="number-col progress-col">+0</td><td class="number-col baseline-col">56535</td><td class="number-col">56535</td></tr><tr class="zero-progress"><td class="rank-col">4</td><td>ProxyWorld</td><td class="number-col progress-col">+0</td><td class="number-col baseline-col">51715</td><td class="number-col">51715</td></tr><tr class="zero-progress"><td class="rank-col">5</td><td>Acswoo</td><td class="number-col progress-col">+0</td><td class="number-col baseline-col">49270</td><td class="number-col">49270</td></tr><tr class="zero-progress"><td class="rank-col">6</td><td>NinetyPuma</td><td class="number-col progress-col">+0</td><td class="number-col baseline-col">43420</td><td class="number-col">43420</td></tr><tr class="zero-progress"><td class="rank-col">7</td><td>AntP</td><td class="number-col progress-col">+0</td><td class="number-col baseline-col">37790</td><td class="number-col">37790</td></tr><tr class="zero-progress"><td class="rank-col">8</td><td>Chrinks</td><td class="number-col progress-col">+0</td><td class="number-col baseline-col">37225</td><td class="number-col">37225</td></tr><tr class="zero-progress"><td class="rank-col">9</td><td>Dadfletch253</td><td class="number-col progress-col">+0</td><td class="number-col baseline-col">34280</td><td class="number-col">34280</td></tr><tr class="zero-progress"><td class="rank-col">10</td><td>chellnyxx</td><td class="number-col progress-col">+0</td><td class="number-col baseline-col">30590</td><td class="number-col">30590</td></tr><tr class="zero-progress"><td class="rank-col">11</td><td>NeroClay</td><td class="number-col progress-col">+0</td><td class="number-col baseline-col">23570</td><td class="number-col">23570</td></tr><tr class="zero-progress"><td class="rank-col">12</td><td>Yesterdie</td><td class="number-col progress-col">+0</td><td class="number-col baseline-col">23360</td><td class="number-col">23360</td></tr><tr class="zero-progress"><td class="rank-col">13</td><td>hannahbae01</td><td class="number-col progress-col">+0</td><td class="number-col baseline-col">23075</td><td class="number-col">23075</td></tr><tr class="zero-progress"><td class="rank-col">14</td><td>QuadRoW</td><td class="number-col progress-col">+0</td><td class="number-col baseline-col">21640</td><td class="number-col">21640</td></tr><tr class="zero-progress"><td class="rank-col">15</td><td>_InEcho</td><td class="number-col progress-col">+0</td><td class="number-col baseline-col">20835</td><td class="number-col">20835</td></tr><tr class="zero-progress"><td class="rank-col">16</td><td>Nemeziz3210</td><td class="number-col progress-col">+0</td><td class="number-col baseline-col">10170</td><td class="number-col">10170</td></tr><tr class="zero-progress"><td class="rank-col">17</td><td>KyleYinYang</td><td class="number-col progress-col">+0</td><td class="number-col baseline-col">3230</td><td class="number-col">3230</td></tr><tr class="zero-progress"><td class="rank-col">18</td><td>promarshmellow</td><td class="number-col progress-col">+0</td><td class="number-col baseline-col">1690</td><td class="number-col">1690</td></tr><tr class="zero-progress"><td class="rank-col">19</td><td>MakerX</td><td class="number-col progress-col">+0</td><td class="number-col baseline-col">1395</td><td class="number-col">1395</td></tr><tr class="zero-progress"><td class="rank-col">20</td><td>Diess</td><td class="number-col progress-col">+0</td><td class="number-col baseline-col">840</td><td class="number-col">840</td></tr><tr class="zero-progress"><td class="rank-col">21</td><td>DonTheLedger</td><td class="number-col progress-col">+0</td><td class="number-col baseline-col">655</td><td class="number-col">655</td></tr><tr class="zero-progress"><td class="rank-col">22</td><td>colehaystead1</td><td class="number-col progress-col">+0</td><td class="number-col baseline-col">605</td><td class="number-col">605</td></tr><tr class="zero-progress"><td class="rank-col">23</td><td>0aTx</td><td class="number-col progress-col">+0</td><td class="number-col baseline-col">0</td><td class="number-col">0</td></tr><tr class="zero-progress"><td class="rank-col">24</td><td>Rei_Piro</td><td class="number-col progress-col">+0</td><td class="number-col baseline-col">0</td><td class="number-col">0</td></tr>
+        </tbody>
+      </table>
+    </div>
+    
+    <div class="updated">
+      Last updated: 2025-12-18 15:50:22 UTC<br>
+      Next update: 2025-12-18 21:50 UTC
+    </div>
+  </div>
+</body>
+</html>
