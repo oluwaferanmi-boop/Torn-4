@@ -11,8 +11,8 @@ on:
 # CONFIGURATION - EDIT THESE DATES
 # ============================================
 env:
-  COMPETITION_START: "2024-12-18"
-  COMPETITION_END: "2025-01-18"
+  COMPETITION_START: "2025-12-18"
+  COMPETITION_END: "2026-01-18"
   API_URL: "https://api.torn.com/v2/faction/contributors?stat=gymenergy&cat=current&comment=Olu"
 # ============================================
 
