@@ -11,8 +11,8 @@ on:
 # CONFIGURATION - EDIT THESE DATES
 # ============================================
 env:
-  COMPETITION_START: "2025-12-18"
-  COMPETITION_END: "2025-12-31"
+  COMPETITION_START: "2024-12-18"
+  COMPETITION_END: "2025-01-18"
   API_URL: "https://api.torn.com/v2/faction/contributors?stat=gymenergy&cat=current&comment=Olu"
 # ============================================
 
@@ -118,8 +118,8 @@ jobs:
           echo "Calculating progress (current - baseline)..."
           
           jq -n '
-            ($baseline | INDEX(.contributors[]; .id)) as $base |
-            ($current | INDEX(.contributors[]; .id)) as $curr |
+            ($baseline[0].contributors | INDEX(.[]; .id)) as $base |
+            ($current[0].contributors | INDEX(.[]; .id)) as $curr |
             
             [
               $curr | to_entries[] | 
