@@ -1,5 +1,13 @@
 [
   {
+    "id": 3609760,
+    "username": "AntP",
+    "baseline": 37790,
+    "current": 39450,
+    "progress": 1660,
+    "in_faction": true
+  },
+  {
     "id": 3973263,
     "username": "NeroClay",
     "baseline": 23570,
@@ -16,6 +24,30 @@
     "in_faction": true
   },
   {
+    "id": 3972842,
+    "username": "chellnyxx",
+    "baseline": 30590,
+    "current": 31390,
+    "progress": 800,
+    "in_faction": true
+  },
+  {
+    "id": 3353883,
+    "username": "ACETONICZ",
+    "baseline": 77180,
+    "current": 77710,
+    "progress": 530,
+    "in_faction": true
+  },
+  {
+    "id": 3886618,
+    "username": "Rearty",
+    "baseline": 62050,
+    "current": 62550,
+    "progress": 500,
+    "in_faction": true
+  },
+  {
     "id": 3880337,
     "username": "Chrinks",
     "baseline": 37225,
@@ -24,35 +56,35 @@
     "in_faction": true
   },
   {
-    "id": 3972842,
-    "username": "chellnyxx",
-    "baseline": 30590,
-    "current": 30940,
-    "progress": 350,
-    "in_faction": true
-  },
-  {
-    "id": 3353883,
-    "username": "ACETONICZ",
-    "baseline": 77180,
-    "current": 77330,
-    "progress": 150,
+    "id": 3973040,
+    "username": "hannahbae01",
+    "baseline": 23075,
+    "current": 23445,
+    "progress": 370,
     "in_faction": true
   },
   {
     "id": 3880418,
     "username": "NinetyPuma",
     "baseline": 43420,
-    "current": 43570,
-    "progress": 150,
+    "current": 43720,
+    "progress": 300,
     "in_faction": true
   },
   {
-    "id": 3609760,
-    "username": "AntP",
-    "baseline": 37790,
-    "current": 37940,
-    "progress": 150,
+    "id": 4029149,
+    "username": "promarshmellow",
+    "baseline": 1690,
+    "current": 1915,
+    "progress": 225,
+    "in_faction": true
+  },
+  {
+    "id": 4030018,
+    "username": "colehaystead1",
+    "baseline": 605,
+    "current": 805,
+    "progress": 200,
     "in_faction": true
   },
   {
@@ -64,35 +96,11 @@
     "in_faction": true
   },
   {
-    "id": 4029149,
-    "username": "promarshmellow",
-    "baseline": 1690,
-    "current": 1840,
-    "progress": 150,
-    "in_faction": true
-  },
-  {
-    "id": 4030018,
-    "username": "colehaystead1",
-    "baseline": 605,
-    "current": 705,
+    "id": 4030716,
+    "username": "Rei_Piro",
+    "baseline": 0,
+    "current": 100,
     "progress": 100,
-    "in_faction": true
-  },
-  {
-    "id": 3886618,
-    "username": "Rearty",
-    "baseline": 62050,
-    "current": 62100,
-    "progress": 50,
-    "in_faction": true
-  },
-  {
-    "id": 3973040,
-    "username": "hannahbae01",
-    "baseline": 23075,
-    "current": 23095,
-    "progress": 20,
     "in_faction": true
   },
   {
@@ -178,14 +186,6 @@
   {
     "id": 4022202,
     "username": "0aTx",
-    "baseline": 0,
-    "current": 0,
-    "progress": 0,
-    "in_faction": true
-  },
-  {
-    "id": 4030716,
-    "username": "Rei_Piro",
     "baseline": 0,
     "current": 0,
     "progress": 0,
