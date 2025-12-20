@@ -3,8 +3,16 @@
     "id": 3609760,
     "username": "AntP",
     "baseline": 37790,
-    "current": 41010,
-    "progress": 3220,
+    "current": 41480,
+    "progress": 3690,
+    "in_faction": true
+  },
+  {
+    "id": 3973263,
+    "username": "NeroClay",
+    "baseline": 23570,
+    "current": 25875,
+    "progress": 2305,
     "in_faction": true
   },
   {
@@ -27,24 +35,16 @@
     "id": 3973040,
     "username": "hannahbae01",
     "baseline": 23075,
-    "current": 24325,
-    "progress": 1250,
+    "current": 24425,
+    "progress": 1350,
     "in_faction": true
   },
   {
     "id": 3972842,
     "username": "chellnyxx",
     "baseline": 30590,
-    "current": 31820,
-    "progress": 1230,
-    "in_faction": true
-  },
-  {
-    "id": 3973263,
-    "username": "NeroClay",
-    "baseline": 23570,
-    "current": 24725,
-    "progress": 1155,
+    "current": 31920,
+    "progress": 1330,
     "in_faction": true
   },
   {
@@ -72,6 +72,14 @@
     "in_faction": true
   },
   {
+    "id": 3886618,
+    "username": "Rearty",
+    "baseline": 62050,
+    "current": 63100,
+    "progress": 1050,
+    "in_faction": true
+  },
+  {
     "id": 4023948,
     "username": "Diess",
     "baseline": 840,
@@ -80,27 +88,19 @@
     "in_faction": true
   },
   {
-    "id": 3886618,
-    "username": "Rearty",
-    "baseline": 62050,
-    "current": 63040,
-    "progress": 990,
-    "in_faction": true
-  },
-  {
     "id": 3919734,
     "username": "_InEcho",
     "baseline": 20835,
-    "current": 21785,
-    "progress": 950,
+    "current": 21825,
+    "progress": 990,
     "in_faction": true
   },
   {
     "id": 4029149,
     "username": "promarshmellow",
     "baseline": 1690,
-    "current": 2325,
-    "progress": 635,
+    "current": 2425,
+    "progress": 735,
     "in_faction": true
   },
   {
@@ -115,8 +115,8 @@
     "id": 4030018,
     "username": "colehaystead1",
     "baseline": 605,
-    "current": 1105,
-    "progress": 500,
+    "current": 1205,
+    "progress": 600,
     "in_faction": true
   },
   {
@@ -140,14 +140,6 @@
     "username": "Nemeziz3210",
     "baseline": 10170,
     "current": 10270,
-    "progress": 100,
-    "in_faction": true
-  },
-  {
-    "id": 4030716,
-    "username": "Rei_Piro",
-    "baseline": 0,
-    "current": 100,
     "progress": 100,
     "in_faction": true
   },
