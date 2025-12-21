@@ -35,8 +35,16 @@
     "id": 3973040,
     "username": "hannahbae01",
     "baseline": 23075,
-    "current": 25485,
-    "progress": 2410,
+    "current": 25605,
+    "progress": 2530,
+    "in_faction": true
+  },
+  {
+    "id": 3886618,
+    "username": "Rearty",
+    "baseline": 62050,
+    "current": 64180,
+    "progress": 2130,
     "in_faction": true
   },
   {
@@ -45,14 +53,6 @@
     "baseline": 30590,
     "current": 32690,
     "progress": 2100,
-    "in_faction": true
-  },
-  {
-    "id": 3886618,
-    "username": "Rearty",
-    "baseline": 62050,
-    "current": 63930,
-    "progress": 1880,
     "in_faction": true
   },
   {
@@ -104,19 +104,19 @@
     "in_faction": true
   },
   {
+    "id": 4030018,
+    "username": "colehaystead1",
+    "baseline": 605,
+    "current": 1380,
+    "progress": 775,
+    "in_faction": true
+  },
+  {
     "id": 4029149,
     "username": "promarshmellow",
     "baseline": 1690,
     "current": 2435,
     "progress": 745,
-    "in_faction": true
-  },
-  {
-    "id": 4030018,
-    "username": "colehaystead1",
-    "baseline": 605,
-    "current": 1280,
-    "progress": 675,
     "in_faction": true
   },
   {
