@@ -3,48 +3,48 @@
     "id": 3609760,
     "username": "AntP",
     "baseline": 37790,
-    "current": 45030,
-    "progress": 7240,
+    "current": 45430,
+    "progress": 7640,
     "in_faction": true
   },
   {
     "id": 3973263,
     "username": "NeroClay",
     "baseline": 23570,
-    "current": 28735,
-    "progress": 5165,
+    "current": 29255,
+    "progress": 5685,
     "in_faction": true
   },
   {
     "id": 3353883,
     "username": "ACETONICZ",
     "baseline": 77180,
-    "current": 81820,
-    "progress": 4640,
+    "current": 82220,
+    "progress": 5040,
     "in_faction": true
   },
   {
     "id": 3973040,
     "username": "hannahbae01",
     "baseline": 23075,
-    "current": 26505,
-    "progress": 3430,
+    "current": 26895,
+    "progress": 3820,
     "in_faction": true
   },
   {
     "id": 3972842,
     "username": "chellnyxx",
     "baseline": 30590,
-    "current": 33620,
-    "progress": 3030,
+    "current": 34040,
+    "progress": 3450,
     "in_faction": true
   },
   {
     "id": 3886618,
     "username": "Rearty",
     "baseline": 62050,
-    "current": 65010,
-    "progress": 2960,
+    "current": 65150,
+    "progress": 3100,
     "in_faction": true
   },
   {
@@ -53,6 +53,14 @@
     "baseline": 56535,
     "current": 59395,
     "progress": 2860,
+    "in_faction": true
+  },
+  {
+    "id": 3496822,
+    "username": "KyleYinYang",
+    "baseline": 3230,
+    "current": 5660,
+    "progress": 2430,
     "in_faction": true
   },
   {
@@ -83,16 +91,8 @@
     "id": 4023948,
     "username": "Diess",
     "baseline": 840,
-    "current": 2980,
-    "progress": 2140,
-    "in_faction": true
-  },
-  {
-    "id": 3496822,
-    "username": "KyleYinYang",
-    "baseline": 3230,
-    "current": 5360,
-    "progress": 2130,
+    "current": 3080,
+    "progress": 2240,
     "in_faction": true
   },
   {
@@ -128,11 +128,19 @@
     "in_faction": true
   },
   {
+    "id": 3972700,
+    "username": "Yesterdie",
+    "baseline": 23360,
+    "current": 24260,
+    "progress": 900,
+    "in_faction": true
+  },
+  {
     "id": 4029149,
     "username": "promarshmellow",
     "baseline": 1690,
-    "current": 2445,
-    "progress": 755,
+    "current": 2470,
+    "progress": 780,
     "in_faction": true
   },
   {
@@ -144,27 +152,19 @@
     "in_faction": true
   },
   {
+    "id": 3973206,
+    "username": "Nemeziz3210",
+    "baseline": 10170,
+    "current": 10470,
+    "progress": 300,
+    "in_faction": true
+  },
+  {
     "id": 4028959,
     "username": "MakerX",
     "baseline": 1395,
     "current": 1650,
     "progress": 255,
-    "in_faction": true
-  },
-  {
-    "id": 3973206,
-    "username": "Nemeziz3210",
-    "baseline": 10170,
-    "current": 10370,
-    "progress": 200,
-    "in_faction": true
-  },
-  {
-    "id": 3972700,
-    "username": "Yesterdie",
-    "baseline": 23360,
-    "current": 23460,
-    "progress": 100,
     "in_faction": true
   },
   {
