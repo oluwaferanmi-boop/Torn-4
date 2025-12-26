@@ -3,8 +3,8 @@
     "id": 3609760,
     "username": "AntP",
     "baseline": 37790,
-    "current": 51980,
-    "progress": 14190,
+    "current": 52200,
+    "progress": 14410,
     "in_faction": true
   },
   {
@@ -27,8 +27,8 @@
     "id": 3973040,
     "username": "hannahbae01",
     "baseline": 23075,
-    "current": 30645,
-    "progress": 7570,
+    "current": 30755,
+    "progress": 7680,
     "in_faction": true
   },
   {
@@ -40,19 +40,19 @@
     "in_faction": true
   },
   {
-    "id": 3972842,
-    "username": "chellnyxx",
-    "baseline": 30590,
-    "current": 37110,
-    "progress": 6520,
-    "in_faction": true
-  },
-  {
     "id": 3886618,
     "username": "Rearty",
     "baseline": 62050,
-    "current": 68560,
-    "progress": 6510,
+    "current": 68980,
+    "progress": 6930,
+    "in_faction": true
+  },
+  {
+    "id": 3972842,
+    "username": "chellnyxx",
+    "baseline": 30590,
+    "current": 37460,
+    "progress": 6870,
     "in_faction": true
   },
   {
@@ -67,8 +67,8 @@
     "id": 3496822,
     "username": "KyleYinYang",
     "baseline": 3230,
-    "current": 8100,
-    "progress": 4870,
+    "current": 8190,
+    "progress": 4960,
     "in_faction": true
   },
   {
@@ -96,6 +96,14 @@
     "in_faction": true
   },
   {
+    "id": 4023948,
+    "username": "Diess",
+    "baseline": 840,
+    "current": 4280,
+    "progress": 3440,
+    "in_faction": true
+  },
+  {
     "id": 3884675,
     "username": "Acswoo",
     "baseline": 49270,
@@ -107,16 +115,8 @@
     "id": 3972700,
     "username": "Yesterdie",
     "baseline": 23360,
-    "current": 25890,
-    "progress": 2530,
-    "in_faction": true
-  },
-  {
-    "id": 4023948,
-    "username": "Diess",
-    "baseline": 840,
-    "current": 3280,
-    "progress": 2440,
+    "current": 26690,
+    "progress": 3330,
     "in_faction": true
   },
   {
