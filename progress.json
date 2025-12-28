@@ -3,8 +3,8 @@
     "id": 3609760,
     "username": "AntP",
     "baseline": 37790,
-    "current": 54050,
-    "progress": 16260,
+    "current": 54630,
+    "progress": 16840,
     "in_faction": true
   },
   {
@@ -35,8 +35,8 @@
     "id": 3881939,
     "username": "BiggyRections",
     "baseline": 56535,
-    "current": 64675,
-    "progress": 8140,
+    "current": 64765,
+    "progress": 8230,
     "in_faction": true
   },
   {
@@ -80,6 +80,14 @@
     "in_faction": true
   },
   {
+    "id": 3884675,
+    "username": "Acswoo",
+    "baseline": 49270,
+    "current": 53855,
+    "progress": 4585,
+    "in_faction": true
+  },
+  {
     "id": 3972700,
     "username": "Yesterdie",
     "baseline": 23360,
@@ -120,14 +128,6 @@
     "in_faction": true
   },
   {
-    "id": 3884675,
-    "username": "Acswoo",
-    "baseline": 49270,
-    "current": 52605,
-    "progress": 3335,
-    "in_faction": true
-  },
-  {
     "id": 3972910,
     "username": "QuadRoW",
     "baseline": 21640,
@@ -139,8 +139,8 @@
     "id": 4030018,
     "username": "colehaystead1",
     "baseline": 605,
-    "current": 2500,
-    "progress": 1895,
+    "current": 2520,
+    "progress": 1915,
     "in_faction": true
   },
   {
@@ -179,8 +179,8 @@
     "id": 4034524,
     "username": "weigie",
     "baseline": 0,
-    "current": 400,
-    "progress": 400,
+    "current": 500,
+    "progress": 500,
     "in_faction": true
   }
 ]
