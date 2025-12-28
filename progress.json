@@ -19,16 +19,16 @@
     "id": 3353883,
     "username": "ACETONICZ",
     "baseline": 77180,
-    "current": 87380,
-    "progress": 10200,
+    "current": 87780,
+    "progress": 10600,
     "in_faction": true
   },
   {
     "id": 3973040,
     "username": "hannahbae01",
     "baseline": 23075,
-    "current": 32375,
-    "progress": 9300,
+    "current": 32805,
+    "progress": 9730,
     "in_faction": true
   },
   {
@@ -67,24 +67,32 @@
     "id": 3496822,
     "username": "KyleYinYang",
     "baseline": 3230,
-    "current": 8940,
-    "progress": 5710,
+    "current": 9090,
+    "progress": 5860,
     "in_faction": true
   },
   {
     "id": 3919734,
     "username": "_InEcho",
     "baseline": 20835,
-    "current": 25585,
-    "progress": 4750,
+    "current": 26125,
+    "progress": 5290,
     "in_faction": true
   },
   {
     "id": 3884675,
     "username": "Acswoo",
     "baseline": 49270,
-    "current": 53855,
-    "progress": 4585,
+    "current": 53945,
+    "progress": 4675,
+    "in_faction": true
+  },
+  {
+    "id": 4023948,
+    "username": "Diess",
+    "baseline": 840,
+    "current": 5230,
+    "progress": 4390,
     "in_faction": true
   },
   {
@@ -112,19 +120,11 @@
     "in_faction": true
   },
   {
-    "id": 4023948,
-    "username": "Diess",
-    "baseline": 840,
-    "current": 4280,
-    "progress": 3440,
-    "in_faction": true
-  },
-  {
     "id": 3881792,
     "username": "Dadfletch253",
     "baseline": 34280,
-    "current": 37680,
-    "progress": 3400,
+    "current": 38080,
+    "progress": 3800,
     "in_faction": true
   },
   {
@@ -152,19 +152,19 @@
     "in_faction": true
   },
   {
+    "id": 3973206,
+    "username": "Nemeziz3210",
+    "baseline": 10170,
+    "current": 10870,
+    "progress": 700,
+    "in_faction": true
+  },
+  {
     "id": 4028959,
     "username": "MakerX",
     "baseline": 1395,
     "current": 2000,
     "progress": 605,
-    "in_faction": true
-  },
-  {
-    "id": 3973206,
-    "username": "Nemeziz3210",
-    "baseline": 10170,
-    "current": 10770,
-    "progress": 600,
     "in_faction": true
   },
   {
