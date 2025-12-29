@@ -3,24 +3,24 @@
     "id": 3609760,
     "username": "AntP",
     "baseline": 37790,
-    "current": 55850,
-    "progress": 18060,
+    "current": 56250,
+    "progress": 18460,
     "in_faction": true
   },
   {
     "id": 3973263,
     "username": "NeroClay",
     "baseline": 23570,
-    "current": 37270,
-    "progress": 13700,
+    "current": 37500,
+    "progress": 13930,
     "in_faction": true
   },
   {
     "id": 3353883,
     "username": "ACETONICZ",
     "baseline": 77180,
-    "current": 88305,
-    "progress": 11125,
+    "current": 88705,
+    "progress": 11525,
     "in_faction": true
   },
   {
@@ -32,19 +32,19 @@
     "in_faction": true
   },
   {
-    "id": 3886618,
-    "username": "Rearty",
-    "baseline": 62050,
-    "current": 71040,
-    "progress": 8990,
-    "in_faction": true
-  },
-  {
     "id": 3881939,
     "username": "BiggyRections",
     "baseline": 56535,
-    "current": 64765,
-    "progress": 8230,
+    "current": 65915,
+    "progress": 9380,
+    "in_faction": true
+  },
+  {
+    "id": 3886618,
+    "username": "Rearty",
+    "baseline": 62050,
+    "current": 71110,
+    "progress": 9060,
     "in_faction": true
   },
   {
@@ -67,8 +67,16 @@
     "id": 3496822,
     "username": "KyleYinYang",
     "baseline": 3230,
-    "current": 9310,
-    "progress": 6080,
+    "current": 9730,
+    "progress": 6500,
+    "in_faction": true
+  },
+  {
+    "id": 3972700,
+    "username": "Yesterdie",
+    "baseline": 23360,
+    "current": 28790,
+    "progress": 5430,
     "in_faction": true
   },
   {
@@ -77,6 +85,14 @@
     "baseline": 20835,
     "current": 26260,
     "progress": 5425,
+    "in_faction": true
+  },
+  {
+    "id": 3880337,
+    "username": "Chrinks",
+    "baseline": 37225,
+    "current": 42415,
+    "progress": 5190,
     "in_faction": true
   },
   {
@@ -104,22 +120,6 @@
     "in_faction": true
   },
   {
-    "id": 3972700,
-    "username": "Yesterdie",
-    "baseline": 23360,
-    "current": 27690,
-    "progress": 4330,
-    "in_faction": true
-  },
-  {
-    "id": 3880337,
-    "username": "Chrinks",
-    "baseline": 37225,
-    "current": 41265,
-    "progress": 4040,
-    "in_faction": true
-  },
-  {
     "id": 3881792,
     "username": "Dadfletch253",
     "baseline": 34280,
@@ -139,8 +139,8 @@
     "id": 4030018,
     "username": "colehaystead1",
     "baseline": 605,
-    "current": 2625,
-    "progress": 2020,
+    "current": 2700,
+    "progress": 2095,
     "in_faction": true
   },
   {
