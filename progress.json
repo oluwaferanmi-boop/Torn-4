@@ -64,19 +64,19 @@
     "in_faction": true
   },
   {
+    "id": 3496822,
+    "username": "KyleYinYang",
+    "baseline": 3230,
+    "current": 11790,
+    "progress": 8560,
+    "in_faction": true
+  },
+  {
     "id": 3919734,
     "username": "_InEcho",
     "baseline": 20835,
     "current": 29305,
     "progress": 8470,
-    "in_faction": true
-  },
-  {
-    "id": 3496822,
-    "username": "KyleYinYang",
-    "baseline": 3230,
-    "current": 11640,
-    "progress": 8410,
     "in_faction": true
   },
   {
@@ -91,8 +91,8 @@
     "id": 3884675,
     "username": "Acswoo",
     "baseline": 49270,
-    "current": 55695,
-    "progress": 6425,
+    "current": 55845,
+    "progress": 6575,
     "in_faction": true
   },
   {
@@ -139,8 +139,8 @@
     "id": 4030018,
     "username": "colehaystead1",
     "baseline": 605,
-    "current": 3660,
-    "progress": 3055,
+    "current": 3685,
+    "progress": 3080,
     "in_faction": true
   },
   {
