@@ -19,16 +19,16 @@
     "id": 3353883,
     "username": "ACETONICZ",
     "baseline": 77180,
-    "current": 92775,
-    "progress": 15595,
+    "current": 93175,
+    "progress": 15995,
     "in_faction": true
   },
   {
     "id": 3973040,
     "username": "hannahbae01",
     "baseline": 23075,
-    "current": 36885,
-    "progress": 13810,
+    "current": 37295,
+    "progress": 14220,
     "in_faction": true
   },
   {
@@ -43,32 +43,32 @@
     "id": 3886618,
     "username": "Rearty",
     "baseline": 62050,
-    "current": 73220,
-    "progress": 11170,
+    "current": 73640,
+    "progress": 11590,
     "in_faction": true
   },
   {
     "id": 3972842,
     "username": "chellnyxx",
     "baseline": 30590,
-    "current": 41320,
-    "progress": 10730,
+    "current": 41390,
+    "progress": 10800,
     "in_faction": true
   },
   {
     "id": 3916545,
     "username": "ProxyWorld",
     "baseline": 51715,
-    "current": 60705,
-    "progress": 8990,
+    "current": 62005,
+    "progress": 10290,
     "in_faction": true
   },
   {
     "id": 3496822,
     "username": "KyleYinYang",
     "baseline": 3230,
-    "current": 11940,
-    "progress": 8710,
+    "current": 12140,
+    "progress": 8910,
     "in_faction": true
   },
   {
@@ -91,8 +91,8 @@
     "id": 3884675,
     "username": "Acswoo",
     "baseline": 49270,
-    "current": 55845,
-    "progress": 6575,
+    "current": 55995,
+    "progress": 6725,
     "in_faction": true
   },
   {
@@ -115,8 +115,8 @@
     "id": 3880418,
     "username": "NinetyPuma",
     "baseline": 43420,
-    "current": 49040,
-    "progress": 5620,
+    "current": 49070,
+    "progress": 5650,
     "in_faction": true
   },
   {
@@ -139,16 +139,16 @@
     "id": 4030018,
     "username": "colehaystead1",
     "baseline": 605,
-    "current": 3685,
-    "progress": 3080,
+    "current": 3740,
+    "progress": 3135,
     "in_faction": true
   },
   {
     "id": 4029149,
     "username": "promarshmellow",
     "baseline": 1690,
-    "current": 3800,
-    "progress": 2110,
+    "current": 3900,
+    "progress": 2210,
     "in_faction": true
   },
   {
@@ -178,6 +178,14 @@
   {
     "id": 4042514,
     "username": "Cypher_Crypt",
+    "baseline": 0,
+    "current": 0,
+    "progress": 0,
+    "in_faction": true
+  },
+  {
+    "id": 4045670,
+    "username": "CryptRaider",
     "baseline": 0,
     "current": 0,
     "progress": 0,
