@@ -11,24 +11,24 @@
     "id": 3973263,
     "username": "NeroClay",
     "baseline": 23570,
-    "current": 42530,
-    "progress": 18960,
+    "current": 42630,
+    "progress": 19060,
     "in_faction": true
   },
   {
     "id": 3353883,
     "username": "ACETONICZ",
     "baseline": 77180,
-    "current": 94885,
-    "progress": 17705,
+    "current": 95285,
+    "progress": 18105,
     "in_faction": true
   },
   {
     "id": 3973040,
     "username": "hannahbae01",
     "baseline": 23075,
-    "current": 38975,
-    "progress": 15900,
+    "current": 39045,
+    "progress": 15970,
     "in_faction": true
   },
   {
@@ -40,19 +40,19 @@
     "in_faction": true
   },
   {
-    "id": 3972842,
-    "username": "chellnyxx",
-    "baseline": 30590,
-    "current": 42640,
-    "progress": 12050,
-    "in_faction": true
-  },
-  {
     "id": 3886618,
     "username": "Rearty",
     "baseline": 62050,
-    "current": 73790,
-    "progress": 11740,
+    "current": 74790,
+    "progress": 12740,
+    "in_faction": true
+  },
+  {
+    "id": 3972842,
+    "username": "chellnyxx",
+    "baseline": 30590,
+    "current": 42990,
+    "progress": 12400,
     "in_faction": true
   },
   {
@@ -96,6 +96,14 @@
     "in_faction": true
   },
   {
+    "id": 3972910,
+    "username": "QuadRoW",
+    "baseline": 21640,
+    "current": 28390,
+    "progress": 6750,
+    "in_faction": true
+  },
+  {
     "id": 4023948,
     "username": "Diess",
     "baseline": 840,
@@ -112,59 +120,35 @@
     "in_faction": true
   },
   {
-    "id": 3972910,
-    "username": "QuadRoW",
-    "baseline": 21640,
-    "current": 27640,
-    "progress": 6000,
-    "in_faction": true
-  },
-  {
     "id": 3880418,
     "username": "NinetyPuma",
     "baseline": 43420,
-    "current": 49340,
-    "progress": 5920,
+    "current": 49490,
+    "progress": 6070,
     "in_faction": true
   },
   {
     "id": 3881792,
     "username": "Dadfletch253",
     "baseline": 34280,
-    "current": 39880,
-    "progress": 5600,
+    "current": 40180,
+    "progress": 5900,
     "in_faction": true
   },
   {
     "id": 4030018,
     "username": "colehaystead1",
     "baseline": 605,
-    "current": 3855,
-    "progress": 3250,
+    "current": 3960,
+    "progress": 3355,
     "in_faction": true
   },
   {
     "id": 4029149,
     "username": "promarshmellow",
     "baseline": 1690,
-    "current": 3905,
-    "progress": 2215,
-    "in_faction": true
-  },
-  {
-    "id": 4035082,
-    "username": "Smokeycat",
-    "baseline": 0,
-    "current": 1150,
-    "progress": 1150,
-    "in_faction": true
-  },
-  {
-    "id": 4034524,
-    "username": "weigie",
-    "baseline": 0,
-    "current": 1010,
-    "progress": 1010,
+    "current": 4000,
+    "progress": 2310,
     "in_faction": true
   },
   {
@@ -179,16 +163,8 @@
     "id": 4042514,
     "username": "Cypher_Crypt",
     "baseline": 0,
-    "current": 0,
-    "progress": 0,
-    "in_faction": true
-  },
-  {
-    "id": 4045670,
-    "username": "CryptRaider",
-    "baseline": 0,
-    "current": 0,
-    "progress": 0,
+    "current": 10,
+    "progress": 10,
     "in_faction": true
   }
 ]
