@@ -3,8 +3,8 @@
     "id": 3609760,
     "username": "AntP",
     "baseline": 37790,
-    "current": 62200,
-    "progress": 24410,
+    "current": 62990,
+    "progress": 25200,
     "in_faction": true
   },
   {
@@ -19,8 +19,8 @@
     "id": 3353883,
     "username": "ACETONICZ",
     "baseline": 77180,
-    "current": 94485,
-    "progress": 17305,
+    "current": 94885,
+    "progress": 17705,
     "in_faction": true
   },
   {
@@ -40,19 +40,19 @@
     "in_faction": true
   },
   {
+    "id": 3972842,
+    "username": "chellnyxx",
+    "baseline": 30590,
+    "current": 42590,
+    "progress": 12000,
+    "in_faction": true
+  },
+  {
     "id": 3886618,
     "username": "Rearty",
     "baseline": 62050,
     "current": 73790,
     "progress": 11740,
-    "in_faction": true
-  },
-  {
-    "id": 3972842,
-    "username": "chellnyxx",
-    "baseline": 30590,
-    "current": 42240,
-    "progress": 11650,
     "in_faction": true
   },
   {
@@ -72,19 +72,19 @@
     "in_faction": true
   },
   {
+    "id": 3972700,
+    "username": "Yesterdie",
+    "baseline": 23360,
+    "current": 31930,
+    "progress": 8570,
+    "in_faction": true
+  },
+  {
     "id": 3919734,
     "username": "_InEcho",
     "baseline": 20835,
     "current": 29305,
     "progress": 8470,
-    "in_faction": true
-  },
-  {
-    "id": 3972700,
-    "username": "Yesterdie",
-    "baseline": 23360,
-    "current": 30830,
-    "progress": 7470,
     "in_faction": true
   },
   {
