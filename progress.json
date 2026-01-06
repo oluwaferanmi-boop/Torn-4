@@ -19,16 +19,16 @@
     "id": 3353883,
     "username": "ACETONICZ",
     "baseline": 77180,
-    "current": 96235,
-    "progress": 19055,
+    "current": 96555,
+    "progress": 19375,
     "in_faction": true
   },
   {
     "id": 3973040,
     "username": "hannahbae01",
     "baseline": 23075,
-    "current": 39435,
-    "progress": 16360,
+    "current": 39775,
+    "progress": 16700,
     "in_faction": true
   },
   {
@@ -43,8 +43,8 @@
     "id": 3886618,
     "username": "Rearty",
     "baseline": 62050,
-    "current": 75300,
-    "progress": 13250,
+    "current": 75380,
+    "progress": 13330,
     "in_faction": true
   },
   {
@@ -59,8 +59,16 @@
     "id": 3916545,
     "username": "ProxyWorld",
     "baseline": 51715,
-    "current": 63365,
-    "progress": 11650,
+    "current": 63505,
+    "progress": 11790,
+    "in_faction": true
+  },
+  {
+    "id": 3919734,
+    "username": "_InEcho",
+    "baseline": 20835,
+    "current": 30460,
+    "progress": 9625,
     "in_faction": true
   },
   {
@@ -69,14 +77,6 @@
     "baseline": 23360,
     "current": 31930,
     "progress": 8570,
-    "in_faction": true
-  },
-  {
-    "id": 3919734,
-    "username": "_InEcho",
-    "baseline": 20835,
-    "current": 29305,
-    "progress": 8470,
     "in_faction": true
   },
   {
@@ -139,24 +139,24 @@
     "id": 4029149,
     "username": "promarshmellow",
     "baseline": 1690,
-    "current": 4175,
-    "progress": 2485,
+    "current": 4300,
+    "progress": 2610,
     "in_faction": true
   },
   {
     "id": 3973206,
     "username": "Nemeziz3210",
     "baseline": 10170,
-    "current": 11070,
-    "progress": 900,
+    "current": 11170,
+    "progress": 1000,
     "in_faction": true
   },
   {
     "id": 4042514,
     "username": "Cypher_Crypt",
     "baseline": 0,
-    "current": 215,
-    "progress": 215,
+    "current": 320,
+    "progress": 320,
     "in_faction": true
   }
 ]
