@@ -3,24 +3,24 @@
     "id": 3609760,
     "username": "AntP",
     "baseline": 37790,
-    "current": 65670,
-    "progress": 27880,
+    "current": 66930,
+    "progress": 29140,
     "in_faction": true
   },
   {
     "id": 3973263,
     "username": "NeroClay",
     "baseline": 23570,
-    "current": 43780,
-    "progress": 20210,
+    "current": 43785,
+    "progress": 20215,
     "in_faction": true
   },
   {
     "id": 3353883,
     "username": "ACETONICZ",
     "baseline": 77180,
-    "current": 96955,
-    "progress": 19775,
+    "current": 97355,
+    "progress": 20175,
     "in_faction": true
   },
   {
@@ -43,24 +43,24 @@
     "id": 3972842,
     "username": "chellnyxx",
     "baseline": 30590,
-    "current": 44160,
-    "progress": 13570,
+    "current": 44260,
+    "progress": 13670,
     "in_faction": true
   },
   {
     "id": 3886618,
     "username": "Rearty",
     "baseline": 62050,
-    "current": 75480,
-    "progress": 13430,
+    "current": 75540,
+    "progress": 13490,
     "in_faction": true
   },
   {
     "id": 3916545,
     "username": "ProxyWorld",
     "baseline": 51715,
-    "current": 63505,
-    "progress": 11790,
+    "current": 63655,
+    "progress": 11940,
     "in_faction": true
   },
   {
@@ -155,8 +155,8 @@
     "id": 4042514,
     "username": "Cypher_Crypt",
     "baseline": 0,
-    "current": 770,
-    "progress": 770,
+    "current": 895,
+    "progress": 895,
     "in_faction": true
   }
 ]
