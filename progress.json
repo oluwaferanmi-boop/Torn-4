@@ -3,32 +3,32 @@
     "id": 3609760,
     "username": "AntP",
     "baseline": 37790,
-    "current": 68610,
-    "progress": 30820,
+    "current": 69260,
+    "progress": 31470,
     "in_faction": true
   },
   {
     "id": 3973263,
     "username": "NeroClay",
     "baseline": 23570,
-    "current": 46030,
-    "progress": 22460,
+    "current": 46470,
+    "progress": 22900,
     "in_faction": true
   },
   {
     "id": 3353883,
     "username": "ACETONICZ",
     "baseline": 77180,
-    "current": 98675,
-    "progress": 21495,
+    "current": 99155,
+    "progress": 21975,
     "in_faction": true
   },
   {
     "id": 3881939,
     "username": "BiggyRections",
     "baseline": 56535,
-    "current": 73915,
-    "progress": 17380,
+    "current": 74415,
+    "progress": 17880,
     "in_faction": true
   },
   {
@@ -43,24 +43,24 @@
     "id": 3972842,
     "username": "chellnyxx",
     "baseline": 30590,
-    "current": 45100,
-    "progress": 14510,
+    "current": 45200,
+    "progress": 14610,
     "in_faction": true
   },
   {
     "id": 3886618,
     "username": "Rearty",
     "baseline": 62050,
-    "current": 75930,
-    "progress": 13880,
+    "current": 76010,
+    "progress": 13960,
     "in_faction": true
   },
   {
     "id": 3916545,
     "username": "ProxyWorld",
     "baseline": 51715,
-    "current": 64085,
-    "progress": 12370,
+    "current": 64285,
+    "progress": 12570,
     "in_faction": true
   },
   {
@@ -80,27 +80,27 @@
     "in_faction": true
   },
   {
-    "id": 3972910,
-    "username": "QuadRoW",
-    "baseline": 21640,
-    "current": 29140,
-    "progress": 7500,
-    "in_faction": true
-  },
-  {
     "id": 4023948,
     "username": "Diess",
     "baseline": 840,
-    "current": 8290,
-    "progress": 7450,
+    "current": 9040,
+    "progress": 8200,
     "in_faction": true
   },
   {
     "id": 3880418,
     "username": "NinetyPuma",
     "baseline": 43420,
-    "current": 50850,
-    "progress": 7430,
+    "current": 50960,
+    "progress": 7540,
+    "in_faction": true
+  },
+  {
+    "id": 3972910,
+    "username": "QuadRoW",
+    "baseline": 21640,
+    "current": 29140,
+    "progress": 7500,
     "in_faction": true
   },
   {
@@ -147,16 +147,16 @@
     "id": 4042514,
     "username": "Cypher_Crypt",
     "baseline": 0,
-    "current": 1780,
-    "progress": 1780,
+    "current": 2170,
+    "progress": 2170,
     "in_faction": true
   },
   {
     "id": 3973206,
     "username": "Nemeziz3210",
     "baseline": 10170,
-    "current": 11170,
-    "progress": 1000,
+    "current": 11270,
+    "progress": 1100,
     "in_faction": true
   }
 ]
