@@ -3,24 +3,32 @@
     "id": 3609760,
     "username": "AntP",
     "baseline": 37790,
-    "current": 67680,
-    "progress": 29890,
+    "current": 68490,
+    "progress": 30700,
     "in_faction": true
   },
   {
     "id": 3973263,
     "username": "NeroClay",
     "baseline": 23570,
-    "current": 45265,
-    "progress": 21695,
+    "current": 45860,
+    "progress": 22290,
     "in_faction": true
   },
   {
     "id": 3353883,
     "username": "ACETONICZ",
     "baseline": 77180,
-    "current": 97915,
-    "progress": 20735,
+    "current": 98275,
+    "progress": 21095,
+    "in_faction": true
+  },
+  {
+    "id": 3881939,
+    "username": "BiggyRections",
+    "baseline": 56535,
+    "current": 73915,
+    "progress": 17380,
     "in_faction": true
   },
   {
@@ -32,35 +40,27 @@
     "in_faction": true
   },
   {
-    "id": 3881939,
-    "username": "BiggyRections",
-    "baseline": 56535,
-    "current": 72135,
-    "progress": 15600,
-    "in_faction": true
-  },
-  {
     "id": 3972842,
     "username": "chellnyxx",
     "baseline": 30590,
-    "current": 44650,
-    "progress": 14060,
+    "current": 45000,
+    "progress": 14410,
     "in_faction": true
   },
   {
     "id": 3886618,
     "username": "Rearty",
     "baseline": 62050,
-    "current": 75770,
-    "progress": 13720,
+    "current": 75870,
+    "progress": 13820,
     "in_faction": true
   },
   {
     "id": 3916545,
     "username": "ProxyWorld",
     "baseline": 51715,
-    "current": 63785,
-    "progress": 12070,
+    "current": 63935,
+    "progress": 12220,
     "in_faction": true
   },
   {
@@ -115,8 +115,8 @@
     "id": 3880418,
     "username": "NinetyPuma",
     "baseline": 43420,
-    "current": 50420,
-    "progress": 7000,
+    "current": 50570,
+    "progress": 7150,
     "in_faction": true
   },
   {
@@ -139,16 +139,16 @@
     "id": 4029149,
     "username": "promarshmellow",
     "baseline": 1690,
-    "current": 4480,
-    "progress": 2790,
+    "current": 4645,
+    "progress": 2955,
     "in_faction": true
   },
   {
     "id": 4042514,
     "username": "Cypher_Crypt",
     "baseline": 0,
-    "current": 1435,
-    "progress": 1435,
+    "current": 1780,
+    "progress": 1780,
     "in_faction": true
   },
   {
