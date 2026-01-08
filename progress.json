@@ -3,24 +3,24 @@
     "id": 3609760,
     "username": "AntP",
     "baseline": 37790,
-    "current": 68490,
-    "progress": 30700,
+    "current": 68610,
+    "progress": 30820,
     "in_faction": true
   },
   {
     "id": 3973263,
     "username": "NeroClay",
     "baseline": 23570,
-    "current": 45860,
-    "progress": 22290,
+    "current": 46030,
+    "progress": 22460,
     "in_faction": true
   },
   {
     "id": 3353883,
     "username": "ACETONICZ",
     "baseline": 77180,
-    "current": 98275,
-    "progress": 21095,
+    "current": 98675,
+    "progress": 21495,
     "in_faction": true
   },
   {
@@ -43,32 +43,32 @@
     "id": 3972842,
     "username": "chellnyxx",
     "baseline": 30590,
-    "current": 45000,
-    "progress": 14410,
+    "current": 45100,
+    "progress": 14510,
     "in_faction": true
   },
   {
     "id": 3886618,
     "username": "Rearty",
     "baseline": 62050,
-    "current": 75870,
-    "progress": 13820,
+    "current": 75930,
+    "progress": 13880,
     "in_faction": true
   },
   {
     "id": 3916545,
     "username": "ProxyWorld",
     "baseline": 51715,
-    "current": 63935,
-    "progress": 12220,
+    "current": 64085,
+    "progress": 12370,
     "in_faction": true
   },
   {
     "id": 3972700,
     "username": "Yesterdie",
     "baseline": 23360,
-    "current": 33030,
-    "progress": 9670,
+    "current": 34130,
+    "progress": 10770,
     "in_faction": true
   },
   {
@@ -96,6 +96,14 @@
     "in_faction": true
   },
   {
+    "id": 3880418,
+    "username": "NinetyPuma",
+    "baseline": 43420,
+    "current": 50850,
+    "progress": 7430,
+    "in_faction": true
+  },
+  {
     "id": 3880337,
     "username": "Chrinks",
     "baseline": 37225,
@@ -109,14 +117,6 @@
     "baseline": 49270,
     "current": 56605,
     "progress": 7335,
-    "in_faction": true
-  },
-  {
-    "id": 3880418,
-    "username": "NinetyPuma",
-    "baseline": 43420,
-    "current": 50570,
-    "progress": 7150,
     "in_faction": true
   },
   {
