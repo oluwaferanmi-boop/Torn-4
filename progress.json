@@ -11,8 +11,8 @@
     "id": 3973263,
     "username": "NeroClay",
     "baseline": 23570,
-    "current": 47190,
-    "progress": 23620,
+    "current": 47240,
+    "progress": 23670,
     "in_faction": true
   },
   {
@@ -27,8 +27,8 @@
     "id": 3881939,
     "username": "BiggyRections",
     "baseline": 56535,
-    "current": 75135,
-    "progress": 18600,
+    "current": 75235,
+    "progress": 18700,
     "in_faction": true
   },
   {
@@ -51,8 +51,8 @@
     "id": 3886618,
     "username": "Rearty",
     "baseline": 62050,
-    "current": 76330,
-    "progress": 14280,
+    "current": 76430,
+    "progress": 14380,
     "in_faction": true
   },
   {
@@ -80,27 +80,27 @@
     "in_faction": true
   },
   {
-    "id": 4023948,
-    "username": "Diess",
-    "baseline": 840,
-    "current": 9040,
-    "progress": 8200,
-    "in_faction": true
-  },
-  {
     "id": 3880418,
     "username": "NinetyPuma",
     "baseline": 43420,
-    "current": 50960,
-    "progress": 7540,
+    "current": 52410,
+    "progress": 8990,
     "in_faction": true
   },
   {
     "id": 3972910,
     "username": "QuadRoW",
     "baseline": 21640,
-    "current": 29140,
-    "progress": 7500,
+    "current": 29890,
+    "progress": 8250,
+    "in_faction": true
+  },
+  {
+    "id": 4023948,
+    "username": "Diess",
+    "baseline": 840,
+    "current": 9040,
+    "progress": 8200,
     "in_faction": true
   },
   {
@@ -128,6 +128,14 @@
     "in_faction": true
   },
   {
+    "id": 4042514,
+    "username": "Cypher_Crypt",
+    "baseline": 0,
+    "current": 3560,
+    "progress": 3560,
+    "in_faction": true
+  },
+  {
     "id": 4030018,
     "username": "colehaystead1",
     "baseline": 605,
@@ -139,16 +147,8 @@
     "id": 4029149,
     "username": "promarshmellow",
     "baseline": 1690,
-    "current": 4945,
-    "progress": 3255,
-    "in_faction": true
-  },
-  {
-    "id": 4042514,
-    "username": "Cypher_Crypt",
-    "baseline": 0,
-    "current": 3145,
-    "progress": 3145,
+    "current": 5115,
+    "progress": 3425,
     "in_faction": true
   },
   {
