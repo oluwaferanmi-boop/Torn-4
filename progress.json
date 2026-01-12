@@ -3,8 +3,8 @@
     "id": 3609760,
     "username": "AntP",
     "baseline": 37790,
-    "current": 69270,
-    "progress": 31480,
+    "current": 69280,
+    "progress": 31490,
     "in_faction": true
   },
   {
@@ -19,8 +19,8 @@
     "id": 3353883,
     "username": "ACETONICZ",
     "baseline": 77180,
-    "current": 99155,
-    "progress": 21975,
+    "current": 99575,
+    "progress": 22395,
     "in_faction": true
   },
   {
@@ -43,16 +43,16 @@
     "id": 3972842,
     "username": "chellnyxx",
     "baseline": 30590,
-    "current": 45850,
-    "progress": 15260,
+    "current": 45980,
+    "progress": 15390,
     "in_faction": true
   },
   {
     "id": 3886618,
     "username": "Rearty",
     "baseline": 62050,
-    "current": 76600,
-    "progress": 14550,
+    "current": 76750,
+    "progress": 14700,
     "in_faction": true
   },
   {
@@ -104,19 +104,19 @@
     "in_faction": true
   },
   {
-    "id": 3880337,
-    "username": "Chrinks",
-    "baseline": 37225,
-    "current": 44565,
-    "progress": 7340,
-    "in_faction": true
-  },
-  {
     "id": 3884675,
     "username": "Acswoo",
     "baseline": 49270,
-    "current": 56605,
-    "progress": 7335,
+    "current": 56725,
+    "progress": 7455,
+    "in_faction": true
+  },
+  {
+    "id": 3880337,
+    "username": "Chrinks",
+    "baseline": 37225,
+    "current": 44655,
+    "progress": 7430,
     "in_faction": true
   },
   {
@@ -131,8 +131,8 @@
     "id": 4042514,
     "username": "Cypher_Crypt",
     "baseline": 0,
-    "current": 5095,
-    "progress": 5095,
+    "current": 5510,
+    "progress": 5510,
     "in_faction": true
   },
   {
