@@ -3,8 +3,8 @@
     "id": 3609760,
     "username": "AntP",
     "baseline": 37790,
-    "current": 69260,
-    "progress": 31470,
+    "current": 69270,
+    "progress": 31480,
     "in_faction": true
   },
   {
@@ -51,16 +51,16 @@
     "id": 3886618,
     "username": "Rearty",
     "baseline": 62050,
-    "current": 76430,
-    "progress": 14380,
+    "current": 76500,
+    "progress": 14450,
     "in_faction": true
   },
   {
     "id": 3916545,
     "username": "ProxyWorld",
     "baseline": 51715,
-    "current": 64435,
-    "progress": 12720,
+    "current": 64585,
+    "progress": 12870,
     "in_faction": true
   },
   {
@@ -136,19 +136,19 @@
     "in_faction": true
   },
   {
+    "id": 4029149,
+    "username": "promarshmellow",
+    "baseline": 1690,
+    "current": 6075,
+    "progress": 4385,
+    "in_faction": true
+  },
+  {
     "id": 4030018,
     "username": "colehaystead1",
     "baseline": 605,
     "current": 4160,
     "progress": 3555,
-    "in_faction": true
-  },
-  {
-    "id": 4029149,
-    "username": "promarshmellow",
-    "baseline": 1690,
-    "current": 5240,
-    "progress": 3550,
     "in_faction": true
   },
   {
