@@ -3,8 +3,8 @@
     "id": 3609760,
     "username": "AntP",
     "baseline": 37790,
-    "current": 70650,
-    "progress": 32860,
+    "current": 71100,
+    "progress": 33310,
     "in_faction": true
   },
   {
@@ -27,8 +27,8 @@
     "id": 3881939,
     "username": "BiggyRections",
     "baseline": 56535,
-    "current": 76245,
-    "progress": 19710,
+    "current": 76695,
+    "progress": 20160,
     "in_faction": true
   },
   {
@@ -80,6 +80,14 @@
     "in_faction": true
   },
   {
+    "id": 3972910,
+    "username": "QuadRoW",
+    "baseline": 21640,
+    "current": 30640,
+    "progress": 9000,
+    "in_faction": true
+  },
+  {
     "id": 3880418,
     "username": "NinetyPuma",
     "baseline": 43420,
@@ -88,27 +96,19 @@
     "in_faction": true
   },
   {
-    "id": 3972910,
-    "username": "QuadRoW",
-    "baseline": 21640,
-    "current": 29890,
-    "progress": 8250,
+    "id": 3884675,
+    "username": "Acswoo",
+    "baseline": 49270,
+    "current": 57975,
+    "progress": 8705,
     "in_faction": true
   },
   {
     "id": 4023948,
     "username": "Diess",
     "baseline": 840,
-    "current": 9040,
-    "progress": 8200,
-    "in_faction": true
-  },
-  {
-    "id": 3884675,
-    "username": "Acswoo",
-    "baseline": 49270,
-    "current": 56725,
-    "progress": 7455,
+    "current": 9290,
+    "progress": 8450,
     "in_faction": true
   },
   {
@@ -120,19 +120,19 @@
     "in_faction": true
   },
   {
+    "id": 4042514,
+    "username": "Cypher_Crypt",
+    "baseline": 0,
+    "current": 6070,
+    "progress": 6070,
+    "in_faction": true
+  },
+  {
     "id": 3881792,
     "username": "Dadfletch253",
     "baseline": 34280,
     "current": 40180,
     "progress": 5900,
-    "in_faction": true
-  },
-  {
-    "id": 4042514,
-    "username": "Cypher_Crypt",
-    "baseline": 0,
-    "current": 5675,
-    "progress": 5675,
     "in_faction": true
   },
   {
