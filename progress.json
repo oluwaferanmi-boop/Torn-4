@@ -3,8 +3,8 @@
     "id": 3609760,
     "username": "AntP",
     "baseline": 37790,
-    "current": 72150,
-    "progress": 34360,
+    "current": 72550,
+    "progress": 34760,
     "in_faction": true
   },
   {
@@ -19,16 +19,16 @@
     "id": 3353883,
     "username": "ACETONICZ",
     "baseline": 77180,
-    "current": 100775,
-    "progress": 23595,
+    "current": 100925,
+    "progress": 23745,
     "in_faction": true
   },
   {
     "id": 3881939,
     "username": "BiggyRections",
     "baseline": 56535,
-    "current": 77645,
-    "progress": 21110,
+    "current": 78045,
+    "progress": 21510,
     "in_faction": true
   },
   {
@@ -43,16 +43,16 @@
     "id": 3972842,
     "username": "chellnyxx",
     "baseline": 30590,
-    "current": 46940,
-    "progress": 16350,
+    "current": 47350,
+    "progress": 16760,
     "in_faction": true
   },
   {
     "id": 3886618,
     "username": "Rearty",
     "baseline": 62050,
-    "current": 76850,
-    "progress": 14800,
+    "current": 78000,
+    "progress": 15950,
     "in_faction": true
   },
   {
@@ -80,6 +80,14 @@
     "in_faction": true
   },
   {
+    "id": 3884675,
+    "username": "Acswoo",
+    "baseline": 49270,
+    "current": 58275,
+    "progress": 9005,
+    "in_faction": true
+  },
+  {
     "id": 3972910,
     "username": "QuadRoW",
     "baseline": 21640,
@@ -96,19 +104,11 @@
     "in_faction": true
   },
   {
-    "id": 3884675,
-    "username": "Acswoo",
-    "baseline": 49270,
-    "current": 58125,
-    "progress": 8855,
-    "in_faction": true
-  },
-  {
     "id": 4023948,
     "username": "Diess",
     "baseline": 840,
-    "current": 9290,
-    "progress": 8450,
+    "current": 9385,
+    "progress": 8545,
     "in_faction": true
   },
   {
@@ -123,8 +123,8 @@
     "id": 4042514,
     "username": "Cypher_Crypt",
     "baseline": 0,
-    "current": 6700,
-    "progress": 6700,
+    "current": 6770,
+    "progress": 6770,
     "in_faction": true
   },
   {
@@ -157,6 +157,14 @@
     "baseline": 10170,
     "current": 11470,
     "progress": 1300,
+    "in_faction": true
+  },
+  {
+    "id": 4043651,
+    "username": "Akhemi",
+    "baseline": 0,
+    "current": 40,
+    "progress": 40,
     "in_faction": true
   }
 ]
