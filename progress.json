@@ -11,40 +11,40 @@
     "id": 3973263,
     "username": "NeroClay",
     "baseline": 23570,
-    "current": 49555,
-    "progress": 25985,
+    "current": 49635,
+    "progress": 26065,
     "in_faction": true
   },
   {
     "id": 3353883,
     "username": "ACETONICZ",
     "baseline": 77180,
-    "current": 102065,
-    "progress": 24885,
+    "current": 102465,
+    "progress": 25285,
     "in_faction": true
   },
   {
     "id": 3881939,
     "username": "BiggyRections",
     "baseline": 56535,
-    "current": 79115,
-    "progress": 22580,
+    "current": 79495,
+    "progress": 22960,
     "in_faction": true
   },
   {
     "id": 3973040,
     "username": "hannahbae01",
     "baseline": 23075,
-    "current": 40705,
-    "progress": 17630,
+    "current": 41145,
+    "progress": 18070,
     "in_faction": true
   },
   {
     "id": 3972842,
     "username": "chellnyxx",
     "baseline": 30590,
-    "current": 48120,
-    "progress": 17530,
+    "current": 48200,
+    "progress": 17610,
     "in_faction": true
   },
   {
@@ -67,8 +67,8 @@
     "id": 3972700,
     "username": "Yesterdie",
     "baseline": 23360,
-    "current": 35480,
-    "progress": 12120,
+    "current": 36580,
+    "progress": 13220,
     "in_faction": true
   },
   {
@@ -99,24 +99,24 @@
     "id": 3884675,
     "username": "Acswoo",
     "baseline": 49270,
-    "current": 58425,
-    "progress": 9155,
-    "in_faction": true
-  },
-  {
-    "id": 4023948,
-    "username": "Diess",
-    "baseline": 840,
-    "current": 9385,
-    "progress": 8545,
+    "current": 58655,
+    "progress": 9385,
     "in_faction": true
   },
   {
     "id": 4042514,
     "username": "Cypher_Crypt",
     "baseline": 0,
-    "current": 8200,
-    "progress": 8200,
+    "current": 8675,
+    "progress": 8675,
+    "in_faction": true
+  },
+  {
+    "id": 4023948,
+    "username": "Diess",
+    "baseline": 840,
+    "current": 9415,
+    "progress": 8575,
     "in_faction": true
   },
   {
@@ -163,8 +163,8 @@
     "id": 4043651,
     "username": "Akhemi",
     "baseline": 0,
-    "current": 40,
-    "progress": 40,
+    "current": 50,
+    "progress": 50,
     "in_faction": true
   }
 ]
