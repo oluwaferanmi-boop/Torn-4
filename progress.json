@@ -3,16 +3,16 @@
     "id": 3609760,
     "username": "AntP",
     "baseline": 37790,
-    "current": 73280,
-    "progress": 35490,
+    "current": 73660,
+    "progress": 35870,
     "in_faction": true
   },
   {
     "id": 3973263,
     "username": "NeroClay",
     "baseline": 23570,
-    "current": 50160,
-    "progress": 26590,
+    "current": 50210,
+    "progress": 26640,
     "in_faction": true
   },
   {
@@ -27,24 +27,24 @@
     "id": 3881939,
     "username": "BiggyRections",
     "baseline": 56535,
-    "current": 80985,
-    "progress": 24450,
+    "current": 81385,
+    "progress": 24850,
     "in_faction": true
   },
   {
     "id": 3973040,
     "username": "hannahbae01",
     "baseline": 23075,
-    "current": 41895,
-    "progress": 18820,
+    "current": 42675,
+    "progress": 19600,
     "in_faction": true
   },
   {
     "id": 3972842,
     "username": "chellnyxx",
     "baseline": 30590,
-    "current": 49290,
-    "progress": 18700,
+    "current": 49640,
+    "progress": 19050,
     "in_faction": true
   },
   {
@@ -67,8 +67,8 @@
     "id": 3972700,
     "username": "Yesterdie",
     "baseline": 23360,
-    "current": 36580,
-    "progress": 13220,
+    "current": 36660,
+    "progress": 13300,
     "in_faction": true
   },
   {
@@ -91,8 +91,8 @@
     "id": 4042514,
     "username": "Cypher_Crypt",
     "baseline": 0,
-    "current": 9810,
-    "progress": 9810,
+    "current": 9845,
+    "progress": 9845,
     "in_faction": true
   },
   {
@@ -107,8 +107,8 @@
     "id": 3884675,
     "username": "Acswoo",
     "baseline": 49270,
-    "current": 58755,
-    "progress": 9485,
+    "current": 58825,
+    "progress": 9555,
     "in_faction": true
   },
   {
@@ -128,19 +128,19 @@
     "in_faction": true
   },
   {
+    "id": 4030018,
+    "username": "colehaystead1",
+    "baseline": 605,
+    "current": 6660,
+    "progress": 6055,
+    "in_faction": true
+  },
+  {
     "id": 3881792,
     "username": "Dadfletch253",
     "baseline": 34280,
     "current": 40180,
     "progress": 5900,
-    "in_faction": true
-  },
-  {
-    "id": 4030018,
-    "username": "colehaystead1",
-    "baseline": 605,
-    "current": 6310,
-    "progress": 5705,
     "in_faction": true
   },
   {
@@ -165,6 +165,14 @@
     "baseline": 0,
     "current": 50,
     "progress": 50,
+    "in_faction": true
+  },
+  {
+    "id": 3978645,
+    "username": "BengtBengtsson",
+    "baseline": 0,
+    "current": 0,
+    "progress": 0,
     "in_faction": true
   }
 ]
