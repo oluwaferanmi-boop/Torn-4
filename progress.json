@@ -43,8 +43,8 @@
     "id": 3972842,
     "username": "chellnyxx",
     "baseline": 30590,
-    "current": 49090,
-    "progress": 18500,
+    "current": 49190,
+    "progress": 18600,
     "in_faction": true
   },
   {
@@ -96,19 +96,19 @@
     "in_faction": true
   },
   {
+    "id": 4042514,
+    "username": "Cypher_Crypt",
+    "baseline": 0,
+    "current": 9740,
+    "progress": 9740,
+    "in_faction": true
+  },
+  {
     "id": 3884675,
     "username": "Acswoo",
     "baseline": 49270,
     "current": 58755,
     "progress": 9485,
-    "in_faction": true
-  },
-  {
-    "id": 4042514,
-    "username": "Cypher_Crypt",
-    "baseline": 0,
-    "current": 9390,
-    "progress": 9390,
     "in_faction": true
   },
   {
