@@ -19,48 +19,48 @@
     "id": 3353883,
     "username": "ACETONICZ",
     "baseline": 77180,
-    "current": 103365,
-    "progress": 26185,
+    "current": 103765,
+    "progress": 26585,
     "in_faction": true
   },
   {
     "id": 3881939,
     "username": "BiggyRections",
     "baseline": 56535,
-    "current": 81385,
-    "progress": 24850,
+    "current": 81785,
+    "progress": 25250,
     "in_faction": true
   },
   {
     "id": 3973040,
     "username": "hannahbae01",
     "baseline": 23075,
-    "current": 42675,
-    "progress": 19600,
+    "current": 42775,
+    "progress": 19700,
     "in_faction": true
   },
   {
     "id": 3972842,
     "username": "chellnyxx",
     "baseline": 30590,
-    "current": 49640,
-    "progress": 19050,
+    "current": 49990,
+    "progress": 19400,
     "in_faction": true
   },
   {
     "id": 3886618,
     "username": "Rearty",
     "baseline": 62050,
-    "current": 79370,
-    "progress": 17320,
+    "current": 79560,
+    "progress": 17510,
     "in_faction": true
   },
   {
     "id": 3916545,
     "username": "ProxyWorld",
     "baseline": 51715,
-    "current": 67215,
-    "progress": 15500,
+    "current": 68365,
+    "progress": 16650,
     "in_faction": true
   },
   {
@@ -91,8 +91,8 @@
     "id": 4042514,
     "username": "Cypher_Crypt",
     "baseline": 0,
-    "current": 9845,
-    "progress": 9845,
+    "current": 10010,
+    "progress": 10010,
     "in_faction": true
   },
   {
@@ -128,6 +128,14 @@
     "in_faction": true
   },
   {
+    "id": 4029149,
+    "username": "promarshmellow",
+    "baseline": 1690,
+    "current": 7755,
+    "progress": 6065,
+    "in_faction": true
+  },
+  {
     "id": 4030018,
     "username": "colehaystead1",
     "baseline": 605,
@@ -144,14 +152,6 @@
     "in_faction": true
   },
   {
-    "id": 4029149,
-    "username": "promarshmellow",
-    "baseline": 1690,
-    "current": 7210,
-    "progress": 5520,
-    "in_faction": true
-  },
-  {
     "id": 3973206,
     "username": "Nemeziz3210",
     "baseline": 10170,
@@ -163,8 +163,16 @@
     "id": 4043651,
     "username": "Akhemi",
     "baseline": 0,
-    "current": 50,
-    "progress": 50,
+    "current": 105,
+    "progress": 105,
+    "in_faction": true
+  },
+  {
+    "id": 3559569,
+    "username": "Violett3",
+    "baseline": 0,
+    "current": 0,
+    "progress": 0,
     "in_faction": true
   },
   {
