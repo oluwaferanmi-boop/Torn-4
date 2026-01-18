@@ -8,6 +8,14 @@
     "in_faction": true
   },
   {
+    "id": 3353883,
+    "username": "ACETONICZ",
+    "baseline": 77180,
+    "current": 104165,
+    "progress": 26985,
+    "in_faction": true
+  },
+  {
     "id": 3973263,
     "username": "NeroClay",
     "baseline": 23570,
@@ -16,35 +24,27 @@
     "in_faction": true
   },
   {
-    "id": 3353883,
-    "username": "ACETONICZ",
-    "baseline": 77180,
-    "current": 103765,
-    "progress": 26585,
-    "in_faction": true
-  },
-  {
     "id": 3881939,
     "username": "BiggyRections",
     "baseline": 56535,
-    "current": 82185,
-    "progress": 25650,
+    "current": 82815,
+    "progress": 26280,
     "in_faction": true
   },
   {
     "id": 3973040,
     "username": "hannahbae01",
     "baseline": 23075,
-    "current": 42905,
-    "progress": 19830,
+    "current": 43025,
+    "progress": 19950,
     "in_faction": true
   },
   {
     "id": 3972842,
     "username": "chellnyxx",
     "baseline": 30590,
-    "current": 49990,
-    "progress": 19400,
+    "current": 50190,
+    "progress": 19600,
     "in_faction": true
   },
   {
@@ -80,19 +80,19 @@
     "in_faction": true
   },
   {
+    "id": 4042514,
+    "username": "Cypher_Crypt",
+    "baseline": 0,
+    "current": 10580,
+    "progress": 10580,
+    "in_faction": true
+  },
+  {
     "id": 3972910,
     "username": "QuadRoW",
     "baseline": 21640,
     "current": 31660,
     "progress": 10020,
-    "in_faction": true
-  },
-  {
-    "id": 4042514,
-    "username": "Cypher_Crypt",
-    "baseline": 0,
-    "current": 10010,
-    "progress": 10010,
     "in_faction": true
   },
   {
@@ -160,6 +160,14 @@
     "in_faction": true
   },
   {
+    "id": 3559569,
+    "username": "Violett3",
+    "baseline": 0,
+    "current": 200,
+    "progress": 200,
+    "in_faction": true
+  },
+  {
     "id": 4043651,
     "username": "Akhemi",
     "baseline": 0,
@@ -168,19 +176,11 @@
     "in_faction": true
   },
   {
-    "id": 3559569,
-    "username": "Violett3",
-    "baseline": 0,
-    "current": 100,
-    "progress": 100,
-    "in_faction": true
-  },
-  {
     "id": 3978645,
     "username": "BengtBengtsson",
     "baseline": 0,
-    "current": 0,
-    "progress": 0,
+    "current": 100,
+    "progress": 100,
     "in_faction": true
   }
 ]
